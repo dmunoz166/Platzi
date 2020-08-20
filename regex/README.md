@@ -28,7 +28,7 @@
 /(lol){n}/, /5{3}/ - n veces que quiero buscar lol, 3 5 consecutivos
 /(com)$/ - final de una cadena de texto
 /^(www)/ - incial de la cadena
-/(?=)/- no trae la cadena que defina /\w(?=\.\w+$)/ - este ejemplo trae los nombre de los archivos antes de un punto
+/(?=)/ - no trae la cadena que defina /\w(?=\.\w+$)/ - este ejemplo trae los nombre de los archivos antes de un punto
 ``` 
 
 ## Paginas para practicar

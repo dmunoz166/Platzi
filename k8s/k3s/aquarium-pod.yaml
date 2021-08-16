@@ -7,3 +7,4 @@ spec:
   - name: funbox
     image: wernight/funbox
     command: ["asciiquarium"] 
+     
